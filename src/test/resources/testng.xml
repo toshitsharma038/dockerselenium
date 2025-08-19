@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="DockerSeleniumSuite">
+    <test name="LoginTests">
+        <classes>
+            <!-- replace with your actual test class package + class name -->
+            <class name="com.dockerselenium.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

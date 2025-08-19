@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T16:38:18Z" name="Default suite" finished-at="2025-08-19T16:38:38Z" duration-ms="19400">
+    <groups>
+    </groups>
+    <test started-at="2025-08-19T16:38:18Z" name="Default test" finished-at="2025-08-19T16:38:38Z" duration-ms="19400">
+      <class name="cdac.dockerselenium.LoginTest">
+        <test-method signature="loginWithValidUser()[pri:0, instance:cdac.dockerselenium.LoginTest@5454d35e]" started-at="2025-08-19T16:38:18Z" name="loginWithValidUser" finished-at="2025-08-19T16:38:38Z" duration-ms="19378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUser -->
+      </class> <!-- cdac.dockerselenium.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
